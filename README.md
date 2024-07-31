@@ -105,7 +105,7 @@ The application will be available at `http://localhost:8000`.
 ```
 ├── app.py                 # Main Flask application
 ├── README.md              # Project documentation
-├── static/                # Static files (CSS, JS, images)
+├── static/                # Static files (CSS, JS, images, plugins)
 │   ├── css/
 │   ├── js/
 |   ├── plugins/
