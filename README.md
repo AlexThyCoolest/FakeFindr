@@ -11,7 +11,6 @@ FakeFindr is a web application designed to detect and flag fake news and misinfo
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -72,7 +71,3 @@ To install FakeFindr, follow these steps:
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
