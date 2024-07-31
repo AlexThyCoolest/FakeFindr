@@ -4,9 +4,10 @@
 
 FakeFindr is an advanced Flask-based web application that leverages machine learning to identify and flag fake news and misinformation, helping users discern the authenticity of online articles.
 
-![A 1-minute demo of the website](https://github-production-user-asset-6210df.s3.amazonaws.com/118056225/351786228-dbb7f2c5-5d1f-4e3b-8bf9-38f25bd7c8f8.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240724%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240724T155535Z&X-Amz-Expires=300&X-Amz-Signature=ae1b9cc088fbfbdbeda5e39f7dd02af67f2b761098259232b168c412ec46fb67&X-Amz-SignedHeaders=host&actor_id=118056225&key_id=0&repo_id=832837105)
+![A Screenshot of the FakeFindr website](https://github.com/user-attachments/assets/e62028dc-6e4a-4033-bc76-8790a7a89d91)
 
 ## 🌟 Features
+
 
 - 🔍 Real-time article analysis
 - 🤖 Fake news detection using machine learning
