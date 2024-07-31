@@ -161,3 +161,4 @@ Project Link: [https://github.com/AlexThyCoolest/FakeFindr](https://github.com/A
 - [NLTK](https://www.nltk.org/)
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 - [Plotly](https://plotly.com/)
+- [AI Camp](https://ai-camp.org/)
