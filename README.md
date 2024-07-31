@@ -107,6 +107,7 @@ The application will be available at `http://localhost:8000`.
 ├── static/                # Static files (CSS, JS, images)
 │   ├── css/
 │   ├── js/
+|   ├── plugins/
 │   └── images/
 ├── templates/             # HTML templates
 │   ├── index.html
