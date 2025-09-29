@@ -9,11 +9,11 @@ FakeFindr is an advanced Flask-based web application that leverages machine lear
 ## Features
 
 
-- 🔍 Real-time article analysis
-- 🤖 Fake news detection using machine learning
-- 📊 Sentiment analysis of the content
-- 📈 Confidence level visualization with Plotly
-- 🚀 Easy-to-use interface
+- Real-time article analysis
+- Fake news detection using machine learning
+- Sentiment analysis of the content
+- Confidence level visualization with Plotly
+- Easy-to-use interface
 
 ## Technologies Used
 
